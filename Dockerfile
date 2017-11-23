@@ -1,4 +1,4 @@
-FROM nginx:1.13.7-alpine
+FROM nginx:alpine
 MAINTAINER Fred William Gayton <wgayton@gmail.com>
 
 # ENV VERSION=v4.8.6 NPM_VERSION=2
